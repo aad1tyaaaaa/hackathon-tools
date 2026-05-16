@@ -235,5 +235,4 @@ open_to = ["SDE Roles", "AI/ML Engineering", "Full-Stack Opportunities"]
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZnZndyeWtpdjloMXN0NmpjNW80d2g5MnhseWg3YzJldGQwOGFjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J1PfbFQP85rYtbk5N3/giphy.gif" width="300" />
-  <p>Made with ❤️ for Hackathon participants!</p>
 </div>
