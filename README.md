@@ -131,53 +131,42 @@ A time-phased technical workflow for shipping hackathon MVPs.
   <svg width="100%" viewBox="0 0 1200 900" xmlns="http://www.w3.org/2000/svg">
     <!-- Background -->
     <rect width="1200" height="900" rx="24" fill="#020617"/>
-    
     <!-- Header -->
     <text x="600" y="50" text-anchor="middle" fill="#F8FAFC" font-family="system-ui, sans-serif" font-weight="800" font-size="28" letter-spacing="0.15em">SPRINT ARCHITECTURE PROTOCOL</text>
-
     <!-- Phase 1: Inception Gateway -->
     <path d="M600 100 l100 40 -100 40 -100 -40 z" fill="#1E293B" stroke="#22D3EE" stroke-width="2" />
     <text x="600" y="145" text-anchor="middle" fill="#22D3EE" font-family="system-ui, sans-serif" font-weight="700" font-size="16">1. INCEPTION GATEWAY</text>
     <text x="600" y="205" text-anchor="middle" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">0.5h • Decide Scope & Story</text>
-
     <!-- Connectors to Engines -->
     <path d="M600 180 v30 h-300 v40 m600 0 v-40 h-300" stroke="#334155" stroke-width="2" fill="none" />
     <path d="M300 250 v-10 m-10 10 l10 10 m0 -10 l-10 10" stroke="#334155" stroke-width="2" fill="none" opacity="0" /> <!-- Spacer -->
     <path d="M300 210 v40 l-10 -15 m10 15 l10 -15" stroke="#818CF8" stroke-width="2" fill="none" />
     <path d="M900 210 v40 l-10 -15 m10 15 l10 -15" stroke="#818CF8" stroke-width="2" fill="none" />
-
     <!-- Phase 2: Parallel Engines -->
     <rect x="100" y="250" width="400" height="120" rx="16" fill="#1E293B" stroke="#818CF8" stroke-width="2" />
     <text x="300" y="295" text-anchor="middle" fill="#818CF8" font-family="system-ui, sans-serif" font-weight="700" font-size="18">2. FRONTEND ENGINE</text>
     <text x="300" y="325" text-anchor="middle" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="14">UI Skeleton • Routing • Components</text>
     <text x="300" y="350" text-anchor="middle" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="12">TIME: 1–3 HOURS</text>
-
     <rect x="700" y="250" width="400" height="120" rx="16" fill="#1E293B" stroke="#818CF8" stroke-width="2" />
     <text x="900" y="295" text-anchor="middle" fill="#818CF8" font-family="system-ui, sans-serif" font-weight="700" font-size="18">3. BACKEND PROTOCOL</text>
     <text x="900" y="325" text-anchor="middle" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="14">Auth • DB • Data Models • APIs</text>
     <text x="900" y="350" text-anchor="middle" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="12">TIME: 2–4 HOURS</text>
-
     <!-- Connectors to Bridge -->
     <path d="M300 370 v60 h200 m400 0 h-200 v-60" stroke="#C084FC" stroke-width="2" fill="none" opacity="0.6" />
     <path d="M600 430 v30 l-10 -15 m10 15 l10 -15" stroke="#C084FC" stroke-width="2" fill="none" />
-
     <!-- Phase 3: Integration Bridge -->
     <rect x="400" y="460" width="400" height="100" rx="16" fill="#1E293B" stroke="#C084FC" stroke-width="2" />
     <text x="600" y="505" text-anchor="middle" fill="#C084FC" font-family="system-ui, sans-serif" font-weight="700" font-size="18">4. INTEGRATION BRIDGE</text>
     <text x="600" y="535" text-anchor="middle" fill="#E2E8F0" font-family="system-ui, sans-serif" font-size="14">Happy Path • UI ↔ API Wired</text>
     <text x="600" y="550" text-anchor="middle" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="12">TIME: 2 HOURS</text>
-
     <!-- Connector to Intelligence -->
     <path d="M600 560 v40 l-10 -15 m10 15 l10 -15" stroke="#FB7185" stroke-width="2" fill="none" opacity="0.6" />
-
     <!-- Phase 4: AI Intelligence Node -->
     <circle cx="600" cy="650" r="50" fill="#1E293B" stroke="#FB7185" stroke-width="2" />
     <text x="600" y="655" text-anchor="middle" fill="#FB7185" font-family="system-ui, sans-serif" font-weight="700" font-size="16">5. AI</text>
     <text x="680" y="655" fill="#94A3B8" font-family="system-ui, sans-serif" font-size="13">WOW FEATURE (2h)</text>
-
     <!-- Connector to Delivery -->
     <path d="M600 700 v40 l-10 -15 m10 15 l10 -15" stroke="#38BDF8" stroke-width="2" fill="none" opacity="0.6" />
-
     <!-- Phase 5: Delivery Stack -->
     <rect x="250" y="740" width="700" height="120" rx="16" fill="#1E293B" stroke="#38BDF8" stroke-width="2" />
     <text x="350" y="785" text-anchor="middle" fill="#38BDF8" font-family="system-ui, sans-serif" font-weight="700" font-size="16">6. POLISH</text>
@@ -235,4 +224,5 @@ open_to = ["SDE Roles", "AI/ML Engineering", "Full-Stack Opportunities"]
 
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2ZnZndyeWtpdjloMXN0NmpjNW80d2g5MnhseWg3YzJldGQwOGFjNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/J1PfbFQP85rYtbk5N3/giphy.gif" width="300" />
+  <p>Made with ❤️ for Hackathon participants!</p>
 </div>
